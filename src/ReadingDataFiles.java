@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
 
-public class ReadingDataFilesPractice {
+public class ReadingDataFiles {
     public static void main(String[] args) {
 
         readingFilesOne();
